@@ -1,0 +1,27 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+li {
+  list-style: none;
+}
+.list {
+  margin: 12px;
+}
+p {
+  font-size: 10px;
+}
+
+.img {
+  margin-right: 10px;
+}
+.delete {
+  width: 30px;
+  cursor: pointer;
+}
+.domain {
+  display: flex;
+  justify-content: space-evenly;
+}
